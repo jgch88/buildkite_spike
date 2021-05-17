@@ -1,0 +1,2 @@
+com/example/buildkitetest/demo/DemoApplication.java
+ com.example.buildkitetest.demo.DemoApplication
